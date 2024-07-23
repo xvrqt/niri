@@ -1,4 +1,4 @@
-#version 100
+#version 430
 
 uniform mat3 matrix;
 uniform mat3 tex_matrix;
